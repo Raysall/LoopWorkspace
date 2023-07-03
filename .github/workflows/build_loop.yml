@@ -41,8 +41,6 @@ jobs:
           dexcom_sage \
           dexcom_upload_readings \
           future_carbs_4h \
-          low_carb_limit \
-          high_carb limit \
           no_auth \
           override_sens \
           limit_loop_cycle_time \
